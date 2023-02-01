@@ -15,6 +15,8 @@ Unsupported Features:
 > **Note**
 > DO NOT mark detail maps as Normal Maps. sRGB should be OFF on all but the albedo texture.
 
+![image](https://user-images.githubusercontent.com/52094720/215963236-997b1385-ead2-4015-a93a-29ecd9b1296e.png)
+
 ## License
 
 MIT
